@@ -1,5 +1,5 @@
 
-# SoS Listener <img align="right" src="src/logo.png" height="150" width="150" alt="SOS Listener Logo"/>
+# SoS-Listener <img align="right" src="src/logo.png" height="150" width="150" alt="SOS Listener Logo"/>
 
 A simple, easy-to-use, tool to request help during emergency situations.
 
@@ -76,7 +76,7 @@ To change the name of a contact you have to create a new contact
 
 ## Activate the quick access Emergency-Number buttons
 
-This app comes with three (deactivated by default) buttons at the top of the main screen. Each button can be associated with an emergency number e.g.: Fire Department, Police, Medical Services, and can, once activated, be used directly from the main screen to call instantly the number the were associated with. To activate one or more of these buttons do the following:
+This App comes with three (deactivated by default) buttons at the top of the main screen. Each button can be associated with an emergency number e.g.: Fire Department, Police, Medical Services, and can, once activated, be used directly from the main screen to call instantly the number the were associated with. To activate one or more of these buttons do the following:
 
 1. Tap on the "Add/Manage Buttons" button in the main screen.
 2. When the new popup window opens, write a new emergency number in one of the text fields next to the label -- Emergency Nr. 1, 2 or 3-- and toggle the switch next to it to the ON state.
@@ -86,7 +86,7 @@ This app comes with three (deactivated by default) buttons at the top of the mai
 
 ## Change the quick access Emergency-Number
 
-This app comes with three (deactivated by default) buttons at the top of the main screen. Each button can be associated with an emergency number e.g.: Fire Department, Police, Medical Services, and can, once activated, be used directly from the main screen to call instantly the number the were associated with. To change/delete one or more of these emergency numbers do the following:
+This App comes with three (deactivated by default) buttons at the top of the main screen. Each button can be associated with an emergency number e.g.: Fire Department, Police, Medical Services, and can, once activated, be used directly from the main screen to call instantly the number the were associated with. To change/delete one or more of these emergency numbers do the following:
 
 1. Tap on the "Add/Manage Buttons" button in the main screen.
 2. When the new popup window opens, write a new emergency number (or a non callable number e.g. "---") in one of the text fields next to the label -- Emergency Nr. 1, 2 or 3--.
@@ -95,7 +95,7 @@ This app comes with three (deactivated by default) buttons at the top of the mai
 
 ## Deactivate the quick access Emergency-Number buttons
 
-This app comes with three (deactivated by default) buttons at the top of the main screen. Each button can be associated with an emergency number e.g.: Fire Department, Police, Medical Services, and can, once activated, be used directly from the main screen to call instantly the number the were associated with. To deactivate one or more of these buttons do the following:
+This App comes with three (deactivated by default) buttons at the top of the main screen. Each button can be associated with an emergency number e.g.: Fire Department, Police or Medical Services, and can, once activated, be used directly from the main screen to call instantly the number the were associated with. To deactivate one or more of these buttons do the following:
 
 1. Tap on the "Add/Manage Buttons" button in the main screen.
 2. When the new popup window opens, toggle the switch next to it to the OFF state.
@@ -104,7 +104,7 @@ This app comes with three (deactivated by default) buttons at the top of the mai
 
 ## License
 
-SOS Listener is a multiplatform capable tool writen in Python/Kivy<br/>
+SoS-Listener is a multiplatform capable tool writen in Python/Kivy<br/>
 language and developed by L. F. G. Muñoz ("the Author") that offers<br/>
 the potential for SOS request in emergency situations.
 
