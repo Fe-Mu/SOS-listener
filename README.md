@@ -1,5 +1,5 @@
 
-##Save a new contact
+## Save a new contact
 
     1. Tap on the "Add/Manage Buttons" button in the main screen.
     2. Write a name for your new contact in the corresponding text field.
