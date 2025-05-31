@@ -3,22 +3,20 @@
 
 A simple, easy-to-use, tool to request help in emergency situations.
 
-## Introduction
-
-SOS Listener is a multiplatform capable tool writen in Python/Kivy language and developed by L.F.G. Muñoz ("the Author") that offers the potential for SOS request in emergency situations.
-
-## Intention:
-
-This App is not targeted at children, but it was designed on purpose with simplicity in mind so that it could easily be used by anyone during an emergency situation.
-
-This is not an App intended to be used as a phone contact book. This app was developed to be a potential source of help in case of an emergency. Use this App as intended, otherwise it could and might increase the probability of undesired results to happen.
-
 ## Disclaimer
 
 By downloading, installing or using this App the end-user needs to understand that:
 1. This App is not a professional App and does not provide or promise to deliver any professional service.
 3. This App is not guaranteed at any moment to function as intended. There are too many potential reasons, from hardware to software, why this App could fail to perform as intended, and therefore it can not be considered as a reliable source of help in an emergency situation. No end-user should rely solely on this App to provide or request aid, rescue or help in any given case or situation.
 4. This App comes with no warranty of any kind. The use of this App is at the end-user's own risk.
+
+## Introduction
+
+SOS Listener is a multiplatform capable tool writen in Python/Kivy language and developed by L.F.G. Muñoz ("the Author") that offers the potential for SOS request in emergency situations.
+
+This App is not targeted at children, but it was designed on purpose with simplicity in mind so that it could easily be used by anyone during an emergency situation.
+
+This is not an App intended to be used as a phone contact book. This app was developed to be a potential source of help in case of an emergency. Use this App as intended, otherwise it could and might increase the probability of undesired results to happen.
 
 ## Code of Conduct
 
@@ -41,11 +39,11 @@ Always respect other people's privacy.
 - **Update Emergency Contacts**
 - **Delete Emergency Contacts**
 - **Call Emergency-Contact**
-- **Send GPS position along with SOS-Messages**: To automatically let the Emergency-Contact your current position.
-- **Send SOS Messages to Emergency-Contact**: In case it is important to let your Emergency-Contact that they should call you back and get help as soon as possible.
-- **Send Silent-SOS Messages Emergency-Contact**: In case it is important to let your Emergency-Contact that they should not attempt to call you back but get help as soon as possible.
-- **Ability to activate up to three Direct-Call Emergency Numbers**: For use to contact immediately your local authorities.
-- **Change between light and dark themes**
+- **Send GPS position along with SOS-Messages**: To let your emergency contact know your current position.
+- **Send SOS Messages to Emergency-Contact**: To let your emergency contact know your location and that they should call you back whenever they can and get help as soon as possible.
+- **Send Silent-SOS Messages Emergency-Contact**: To let your emergency contact know your location and let them know they should not attempt to call you back but get help as soon as possible.
+- **Ability to activate up to three Direct-Call emergency buttons**: To contact without delay any of your local authorities/emergency-institutions
+- **Ability to change between light and dark themes**
 
 ## Activate/Deactivate the light-theme
 
