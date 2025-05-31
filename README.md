@@ -13,7 +13,7 @@ By downloading, installing or using this App the end-user needs to understand th
 
 ## Introduction
 
-SOS Listener is a multiplatform capable tool writen in Python/Kivy language and developed by L.F.G. Muñoz ("the Author") that offers the potential for SOS request in emergency situations.
+SOS Listener is a multiplatform capable tool writen in Python/Kivy language and developed by L. F. G. Muñoz ("the Author") that offers the potential for SOS request in emergency situations.
 
 This App is not targeted at children, but it was designed on purpose with simplicity in mind so that it could easily be used by anyone during an emergency situation.
 
@@ -108,10 +108,10 @@ This app comes with three (deactivated by default) buttons at the top of the mai
 ## License
 
 SOS Listener is a multiplatform capable tool writen in Python/Kivy<br/>
-language and developed by L.F.G. Muñoz ("the Author") that offers<br/>
+language and developed by L. F. G. Muñoz ("the Author") that offers<br/>
 the potential for SOS request in emergency situations.
 
-Copyright  (C)  2025  L.F.G. Muñoz  lfgm.copyright@protonmail.com
+Copyright  (C)  2025  L. F. G. Muñoz  lfgm.copyright@protonmail.com
 
 This program is free software: you can redistribute it and/or modify<br/>
 it under the terms of the GNU Affero General Public License as published<br/>
