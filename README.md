@@ -1,6 +1,12 @@
 
 # SOS Listener <img align="right" src="src/logo.png" height="128" width="128" alt="SOS Listener Logo"/>
 
+A simple, easy-to-use, tool to request help in emergency situations.
+
+## Introduction
+
+SOS Listener is a multiplatform capable tool writen in Python/Kivy language and developed by Felipe Muñoz ("the Author") that offers the potential for SOS request in emergency situations.
+
 ## Intention:
 
 This App is not targeted at children, but it was designed on purpose with simplicity in mind so that it could easily be used by anyone during an emergency situation.
@@ -14,10 +20,6 @@ By downloading, installing or using this App the end-user needs to understand th
     2. This App does not provide or promises to deliver any professional service and is not meant to do so.
     3. This App is not guaranteed at any moment to function as intended. There are too many potential reasons, from hardware to software, why this App could fail to perform as intended, and therefore it can not be considered as a reliable source of help in an emergency situation. No end-user should rely solely on this App to provide or request aid, rescue or help in any given case or situation.
     4. This App comes with no warranty of any kind. The use of this App is at the end-user's own risk.
-
-## Introduction
-
-SOS Listener is a multiplatform capable tool writen in Python/Kivy language and developed by Felipe Muñoz ("the Author") that offers the potential for SOS request in emergency situations.
 
 ## A call for being responsible
 
@@ -34,6 +36,17 @@ To the end-user of this App, we kindly ask her/him/it to please:
 Always respect other people's privacy.
 
 ## Features
+
+- **GPS coordinates display**
+- **Add Emergency Contacts**
+- **Update Emergency Contacts**
+- **Delete Emergency Contacts**
+- **Call Emergency-Contact**
+- **Send GPS position along with SOS-Messages**: To automatically let the Emergency-Contact your current position.
+- **Send SOS Messages to Emergency-Contact**: In case it is important to let your Emergency-Contact that they should call you back and get help as soon as possible.
+- **Send Silent-SOS Messages Emergency-Contact**: In case it is important to let your Emergency-Contact that they should not attempt to call you back but get help as soon as possible.
+- **Ability to activate up to three Direct-Call Emergency Numbers**: For use to contact immediately your local authorities.
+- **Change between light and dark themes**
 
 ## Activate/Deactivate the light-theme
 
