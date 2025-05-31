@@ -38,7 +38,7 @@ Always respect other people's privacy.
 - **Send GPS position along with SOS-Messages**: To let your emergency-contact know your current position.
 - **Send SOS-Messages**: To let your emergency-contact know your location and that they should call you back whenever they can and get help as soon as possible.
 - **Send Silent-SOS Messages**: To let your emergency-contact know your location and let them know they should not attempt to call you back but get help as soon as possible.
-- **Ability to activate up to three Direct-Call emergency buttons**: To contact without delay any of your local authorities/emergency-institutions
+- **Ability to activate up to three Quick-Call Emergency-Buttons**: To contact without delay any of your local authorities/emergency-institutions
 - **Ability to change between light and dark themes**
 
 ## Activate/Deactivate the light-theme
@@ -74,7 +74,7 @@ To change the name of a contact you have to create a new contact
 2. Write the name of the existing contact in the corresponding text field. The name needs to be written exactly as displayed in the contact button.
 3. Press the "Delete" button.
 
-## Activate the quick access Emergency-Number buttons
+## Activate the Quick-Call Emergency-Buttons
 
 This App comes with three (deactivated by default) buttons at the top of the main screen. Each button can be associated with an emergency number e.g.: Fire Department, Police, Medical Services, and can, once activated, be used directly from the main screen to call instantly the number the were associated with. To activate one or more of these buttons do the following:
 
