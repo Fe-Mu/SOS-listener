@@ -84,7 +84,7 @@ This App comes with three (deactivated by default) buttons at the top of the mai
 4. Click on the "Update" button at the bottom of the screen.
 5. The activated button will be available for its use at the top of the main screen in the chosen color.
 
-## Change the quick access Emergency-Number
+## Change the Quick-Call Emergency-Number
 
 This App comes with three (deactivated by default) buttons at the top of the main screen. Each button can be associated with an emergency number e.g.: Fire Department, Police, Medical Services, and can, once activated, be used directly from the main screen to call instantly the number the were associated with. To change/delete one or more of these emergency numbers do the following:
 
@@ -93,7 +93,7 @@ This App comes with three (deactivated by default) buttons at the top of the mai
 3. Click on the "Update" button at the bottom of the screen.
 4. The changed emergency number button will be displayed in the button at the top of the main screen.
 
-## Deactivate the quick access Emergency-Number buttons
+## Deactivate the Quick-Call Emergency-Buttons
 
 This App comes with three (deactivated by default) buttons at the top of the main screen. Each button can be associated with an emergency number e.g.: Fire Department, Police or Medical Services, and can, once activated, be used directly from the main screen to call instantly the number the were associated with. To deactivate one or more of these buttons do the following:
 
