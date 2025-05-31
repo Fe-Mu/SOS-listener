@@ -24,7 +24,6 @@ To the End-User of this App, we kindly ask her/him/it to please:
 2. Not to use, directly or indirectly, this App to create a false identity to mislead another person, entity, organization, association, partnership or anything equivalent in any possible way, no matter the intention or the situation.
 3. Not to use, directly or indirectly, this App to steal, collect or process private information from another person, entity, organization, association, partnership or anything equivalent in any possible way, no matter the intention or the situation.
 4. Not to violate the privacy of other end-users and to please behave in a responsible manner and according to the law.
-5. Not to share the information of anyone else other that your own with other person, entity, organization, association, partnership or anything equivalent, no one else.
 
 Always respect other people's privacy.
 
