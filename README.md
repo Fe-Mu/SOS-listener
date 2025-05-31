@@ -114,8 +114,8 @@ the potential for SOS request in emergency situations.
 Copyright  (C)  2025  L.F.G. Muñoz  lfgm.copyright@protonmail.com
 
 This program is free software: you can redistribute it and/or modify<br/>
-it under the terms of the GNU Affero General Public License as published by<br/>
-the Free Software Foundation, either version 3 of the License, or<br/>
+it under the terms of the GNU Affero General Public License as published<br/>
+by the Free Software Foundation, either version 3 of the License, or<br/>
 (at your option) any later version.
 
 This program is distributed in the hope that it will be useful,<br/>
