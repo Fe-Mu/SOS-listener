@@ -1,5 +1,47 @@
 
-## Save a new contact
+# SOS Listener <img align="right" src="src/logo.png" height="128" width="128" alt="SOS Listener Logo"/>
+
+## Intention:
+
+This App is not targeted at children, but it was designed on purpose with simplicity in mind so that it could easily be used by anyone during an emergency situation.
+
+This is not an App intended to be used as a phone contact book. This app was developed to be a potential source of help in case of an emergency. Use this App as intended, otherwise it could and might increase the probability of undesired results to happen.
+
+## Disclaimer
+
+By downloading, installing or using this App the end-user needs to understand that:
+    1. This App is not a professional App or piece of software and is not meant to be.
+    2. This App does not provide or promises to deliver any professional service and is not meant to do so.
+    3. This App is not guaranteed at any moment to function as intended. There are too many potential reasons, from hardware to software, why this App could fail to perform as intended, and therefore it can not be considered as a reliable source of help in an emergency situation. No end-user should rely solely on this App to provide or request aid, rescue or help in any given case or situation.
+    4. This App comes with no warranty of any kind. The use of this App is at the end-user's own risk.
+
+## Introduction
+
+SOS Listener is a multiplatform capable tool writen in Python/Kivy language and developed by Felipe Muñoz ("the Author") that offers the potential for SOS request in emergency situations.
+
+## A call for being responsible
+
+This App was developed with the intention to provide a means to request help during emergency situations.
+
+To the end-user of this App, we kindly ask her/him/it to please:
+
+    1. Not to facilitate (or help to facilitate) this App or any of its parts to any other person, entity, organization, association, partnership or anything equivalent for its use in any illegal or unethical activities and/or any activities that could harm or impact negatively anyone or anything.
+    2. Not to use, directly or indirectly, this App to create a false identity to mislead another person, entity, organization, association, partnership or anything equivalent in any possible way, no matter the intention or the situation.
+    3. Not to use, directly or indirectly, this App to steal, collect or process private information from another person, entity, organization, association, partnership or anything equivalent in any possible way, no matter the intention or the situation.
+    4. Not to violate the privacy of other end-users and to please behave in a responsible manner and according to the law.
+    5. Not to share the information of anyone else other that your own with other person, entity, organization, association, partnership or anything equivalent, no one else.
+
+Always respect other people's privacy.
+
+## Features
+
+## Activate/Deactivate the light-theme
+
+    1. Tap on the "Add/Manage Buttons" button in the main screen.
+    2. When the new popup screen opens, toggle the light-theme switch at the top of the window to the desired ON/OFF state.
+    3. The new theme will be automatically applied and displayed on the main screen.
+
+##Save a new contact
 
     1. Tap on the "Add/Manage Buttons" button in the main screen.
     2. Write a name for your new contact in the corresponding text field.
