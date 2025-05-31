@@ -1,7 +1,7 @@
 
 # SOS Listener <img align="right" src="src/logo.png" height="150" width="150" alt="SOS Listener Logo"/>
 
-A simple, easy-to-use, tool to request help in emergency situations.
+A simple, easy-to-use, tool to request help during emergency situations.
 
 ## Disclaimer
 
@@ -9,14 +9,13 @@ By downloading, installing or using this App the end-user needs to understand th
 1. This App is not a professional App and does not provide or promise to deliver any professional service.
 3. This App is not guaranteed at any moment to function as intended. There are too many potential reasons, from hardware to software, why this App could fail to perform as intended, and therefore it can not be considered as a reliable source of help in an emergency situation. No end-user should rely solely on this App to provide or request aid, rescue or help in any given case or situation.
 4. This App comes with no warranty of any kind. The use of this App is at the end-user's own risk.
+5. This is not an App intended to be used as a phone contact book. This app was developed to be a potential source of help in case of an emergency. Use this App as intended, otherwise it could and might increase the probability of undesired results to happen.
 
 ## Introduction
 
 SOS Listener is a multiplatform capable tool writen in Python/Kivy language and developed by L.F.G. Muñoz ("the Author") that offers the potential for SOS request in emergency situations.
 
 This App is not targeted at children, but it was designed on purpose with simplicity in mind so that it could easily be used by anyone during an emergency situation.
-
-This is not an App intended to be used as a phone contact book. This app was developed to be a potential source of help in case of an emergency. Use this App as intended, otherwise it could and might increase the probability of undesired results to happen.
 
 ## Code of Conduct
 
@@ -34,14 +33,14 @@ Always respect other people's privacy.
 
 ## Features
 
-- **GPS coordinates display**
+- **GPS coordinates display**: To allow the user to know its current location at all times whenever the location services and permissions are activated/granted.
 - **Add Emergency Contacts**
-- **Update Emergency Contacts**
-- **Delete Emergency Contacts**
-- **Call Emergency-Contact**
-- **Send GPS position along with SOS-Messages**: To let your emergency contact know your current position.
-- **Send SOS Messages to Emergency-Contact**: To let your emergency contact know your location and that they should call you back whenever they can and get help as soon as possible.
-- **Send Silent-SOS Messages Emergency-Contact**: To let your emergency contact know your location and let them know they should not attempt to call you back but get help as soon as possible.
+- **Update Emergency-Contacts**
+- **Delete Emergency-Contacts**
+- **Call Emergency-Contacts**
+- **Send GPS position along with SOS-Messages**: To let your emergency-contact know your current position.
+- **Send SOS-Messages**: To let your emergency-contact know your location and that they should call you back whenever they can and get help as soon as possible.
+- **Send Silent-SOS Messages**: To let your emergency-contact know your location and let them know they should not attempt to call you back but get help as soon as possible.
 - **Ability to activate up to three Direct-Call emergency buttons**: To contact without delay any of your local authorities/emergency-institutions
 - **Ability to change between light and dark themes**
 
@@ -108,7 +107,7 @@ This app comes with three (deactivated by default) buttons at the top of the mai
 
 ## License
 
-SOS Listener is a multiplatform capable tool writen in Python/Kivy
+SOS Listener is a multiplatform capable tool writen in Python/Kivy<br/>
 language and developed by L.F.G. Muñoz ("the Author") that offers
 the potential for SOS request in emergency situations.
 
