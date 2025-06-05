@@ -84,7 +84,7 @@ To change the name of a contact you have to create a new contact
 ## Send SOS-Message
 
 1. Tap on the emergency-contact button
-2. Tap on the "Send-SOS" or "Silent-SOS" button in the new popup window
+2. Tap on the "Send-SOS" button in the new popup window
 3. An SOS with the following message will be sent:
 > ++ Emergency-SOS ++<br/> 
 > I need help! , PLEASE CALL BACK! , if I dont answer please send help to my location!
@@ -92,7 +92,7 @@ To change the name of a contact you have to create a new contact
 ## Send Silent-SOS-Message
 
 1. Tap on the emergency-contact button
-2. Tap on the "Send-SOS" or "Silent-SOS" button in the new popup window
+2. Tap on the "Silent-SOS" button in the new popup window
 3. A Silent-SOS with the following message will be sent:
 > ++ Silent Emergency-SOS ++<br/>
 > I need help! , DO NOT CALL BACK! , please send help to my location!
