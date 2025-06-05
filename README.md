@@ -59,7 +59,7 @@ To the End-User of this App, please:
 
 ## Update an existing contact
 
-_To change the name of a contact you have to delete the existing contact and create a new one_
+<ins>To change the name of a contact you have to delete the existing contact and create a new one</ins>
 
 1. Tap on the "Add/Manage Buttons" button in the main screen.
 2. Write the name of the existing contact in the corresponding text field. The name has to be written exactly as is displayed in the contact button.
