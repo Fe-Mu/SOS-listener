@@ -99,7 +99,7 @@ To change the name of a contact you have to create a new contact
 
 ## Location Messages
 
-Sending a SOS-Message will also deliver the current Location of the person requesting the help in a link that can be opened either on the Magic Earth App or on the Google Maps App. These apps need to be previously installed for the links to be able to be opened there.
+Sending a SOS-Message will also deliver the current Location of the person requesting the help in a link that can be opened either on the Magic Earth App or on the Google Maps App. These apps need to be previously installed in order for the links to be able to be opened there.
 
 1. Magic Earth is the recommended App to open shared Location coordinates due to its privacy-oriented nature which aligns with SoS-Listener's commitment to respect the End-User's privacy. Additionally Magic Earth offers the possibility to download (at no cost) offline maps for entire and multiple countries across the world if desired. This allows the sender and the receiver to share and pinpoint any Location coordinates in an offline map when no internet connectivity is available (as long as the region was previously downloaded in Magic Earth).
 2. Google Maps was chosen as the second App to open shared Location coordinates due to its popularity and wide adoption across multiple devices and countries. 
