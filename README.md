@@ -104,7 +104,7 @@ Sending a SOS-Message will also deliver the current Location of the person reque
 1. Magic Earth is the recommended App to open shared Location coordinates due to its privacy-oriented nature which aligns with SoS-Listener's commitment to respect the End-User's privacy. Additionally Magic Earth offers the possibility to download (at no cost) offline maps for entire and multiple countries across the world if desired. This allows the sender and the receiver to share and pinpoint any Location coordinates in an offline map when no internet connectivity is available (as long as the region was previously downloaded in Magic Earth).
 2. Google Maps was chosen as the second App to open shared Location coordinates due to its popularity and wide adoption across multiple devices and countries. 
 
-Disclaimer: The developer or this App has no affiliation, support or relationship with Magic Earth or Google in any way.
+Disclaimer: The developer or this App has no affiliation, support or relationship with/from Magic Earth or Google in any way.
 
 ## Activate the Quick-Call Emergency-Buttons
 
