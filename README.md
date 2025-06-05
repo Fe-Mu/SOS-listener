@@ -27,11 +27,11 @@ This App focuses on being **Simple, Intuitive, Easy to use, Essential and Privat
 
 To the End-User of this App, please:
 
-- Not to facilitate (or help to facilitate) this App or any of its parts to any other person, entity, organization, association, partnership or anything equivalent for its use in any illegal or unethical activities and/or any activities that could harm or impact negatively anyone or anything.
-- Not to use, directly or indirectly, this App to create a false identity to mislead another person, entity, organization, association, partnership or anything equivalent in any possible way, no matter the intention or the situation.
-- Not to use, directly or indirectly, this App to steal, collect or process private information from another person, entity, organization, association, partnership or anything equivalent in any possible way, no matter the intention or the situation.
-- Not to violate the privacy of other end-users and to please behave in a responsible manner and according to the law.
-- Not to share the information of anyone else other that your own with other person, entity, organization, association, partnership or anything equivalent, no one else.
+- Do not facilitate (or help to facilitate) this App or any of its parts to any other person, entity, organization, association, partnership or anything equivalent for its use in any illegal or unethical activities and/or any activities that could harm or impact negatively anyone or anything.
+- Do not use, directly or indirectly, this App to create a false identity to mislead another person, entity, organization, association, partnership or anything equivalent in any possible way, no matter the intention or the situation.
+- Do not use, directly or indirectly, this App to steal, collect or process private information from another person, entity, organization, association, partnership or anything equivalent in any possible way, no matter the intention or the situation.
+- Do not violate the privacy of other end-users and to please behave in a responsible manner and according to the law.
+- Do not share the information of anyone else other that your own with other person, entity, organization, association, partnership or anything equivalent, no one else.
 
 Always respect other people's privacy.
 
