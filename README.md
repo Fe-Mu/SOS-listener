@@ -33,7 +33,7 @@ To the End-User of this App, please:
 - Do not violate the privacy of other end-users and to please behave in a responsible manner and according to the law.
 - Do not share the information of anyone else other that your own with other person, entity, organization, association, partnership or anything equivalent, no one else.
 
-Always respect other people's privacy.
+<ins>Always respect other people's privacy</ins>.
 
 ## Features
 
