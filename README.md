@@ -10,7 +10,7 @@ A simple, easy-to-use, tool/App to request help during emergency situations.
 3. This App comes with no warranty of any kind. The use of this App is at the end-user's own risk.
 4. This is not an App intended to be used as a phone contact book. This App was developed to be a potential source of help in case of an emergency. Use this App as intended, otherwise it could and might increase the probability of undesired results to happen.
 
-Make sure your emergency-contacts have always your number and your name as contact so that in case of an emergency your emergency-contacts wil be able to identify which telephone number is contacting them by calling them or by sending them an SOS-message.
+_Make sure your emergency-contacts have always your number and your name as contact so that in case of an emergency your emergency-contacts wil be able to identify which telephone number is contacting them by calling them or by sending them an SOS-message_.
 
 ## Introduction
 
