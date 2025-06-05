@@ -10,8 +10,6 @@ A simple, easy-to-use, tool/App to request help during emergency situations.
 3. This App comes with no warranty of any kind. The use of this App is at the end-user's own risk.
 4. This is not an App intended to be used as a phone contact book. This App was developed to be a potential source of help in case of an emergency. Use this App as intended, otherwise it could and might increase the probability of undesired results to happen.
 
-_Make sure your emergency-contacts have always your number and your name as contact so that in case of an emergency your emergency-contacts wil be able to identify which telephone number is contacting them by calling them or by sending them an SOS-message_.
-
 ## Introduction
 
 SoS-Listener is a multiplatform capable tool writen in Python/Kivy language and developed by L. F. G. Muñoz ("the Author") that offers the potential for SOS request in emergency situations.
@@ -22,6 +20,8 @@ Quick access to essential features and a clean interface were prioritized instea
 
 This App does not aim to be the most feature rich of its kind (since that would defeat the purpose of its simplicity). 
 This App focuses on being **Simple, Intuitive, Easy to use, Essential and Private**. 
+
+_Make sure your emergency-contacts have always your number and your name as contact so that in case of an emergency your emergency-contacts wil be able to identify which telephone number is contacting them by calling them or by sending them an SOS-message_.
 
 ## Code of Conduct
 
