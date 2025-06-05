@@ -143,7 +143,7 @@ To update the App:
 1. Go to https://github.com/Fe-Mu/SoS-Listener/releases and download the newest/latest App release from the official GitHub Repository.
 2. Go to the location where the APK was downloaded (usually the Downloads folder).
 3. Tap on the downloaded APK and click on install and proceed with the installation steps that will follow. If during the installation you receive a message that there is a problem with the Signature it could mean that the App was tampered by someone else and therefore the Signatures of the original APK and the new APK do not match. In such case Android should prevent the installation since this is a security issue. In such case do not install the new APK and please inform the Developer about this.
-4. After the installation your App will be updated.
+4. If everything went well the App should now have the latest updates.
 
 ## Activate/Deactivate the light-theme
 
