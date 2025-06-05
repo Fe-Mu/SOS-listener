@@ -62,9 +62,9 @@ To change the name of a contact you have to create a new contact
 1. Tap on the "Add/Manage Buttons" button in the main screen.
 2. Write the name of the existing contact in the corresponding text field. The name has to be written exactly as is displayed in the contact button.
 3. Update the information in the desired fields:
-    • Write the updated country’s code number in the corresponding text field.
-    • Write the contact’s phone Number in the corresponding text field.
-    • Tap on the color wheel to choose the display color that will be assigned to your contact.
+    - Write the updated country’s code number in the corresponding text field.
+    - Write the contact’s phone Number in the corresponding text field.
+    - Tap on the color wheel to choose the display color that will be assigned to your contact.
 4. Press the "Update" button.
 
 ## Delete an existing contact
