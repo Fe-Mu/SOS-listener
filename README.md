@@ -99,9 +99,10 @@ To change the name of a contact you have to create a new contact
 
 ## Location Messages
 
-Sending a SOS-Message will additionally deliver the current Location of the person requesting the help. This is done by sending two links, one that can be opened in the Google-Maps App and another that can be opened in the Magic-Earth App. These apps need to be previously installed for the links to be able to be opened there.
+Sending a SOS-Message will also deliver the current Location of the person requesting the help in a link that can be opened either on the Magic-Earth App or on the Google-Maps App. These apps need to be previously installed for the links to be able to be opened there.
 
-Magic-Earth is the recommended App to open the shared Location coordinates due to its privacy oriented nature which aligns with this SoS-Listener's commitment to respect the End-User's privacy. Additionally Magic-Earth offers the possibility to download (at no cost) offline maps for entire and multiple countries across the worls if desired. This allows the sender and the receiver to share and pinpoint any Location coordinates in an offline map when no internet connectivity is available and as long as the region was previously downloaded in Magic-Earth. The Google-Maps App was chosen as one of the two options to open Location coordinates due to its popularity and wide adoption across multiple devices and countries. 
+1. Magic-Earth is the recommended App to open the shared Location due to its privacy oriented nature which aligns with this SoS-Listener's commitment to respect the End-User's privacy. Additionally Magic-Earth offers the possibility to download (at no cost) offline maps for entire and multiple countries across the worls if desired. This allows the sender and the receiver to share and pinpoint any Location coordinates in an offline map when no internet connectivity is available and as long as the region was previously downloaded in Magic-Earth.
+2. Google-Maps was chosen as the second App to open the shared Location due to its popularity and wide adoption across multiple devices and countries. 
 
 Disclaimer: The developer or this App have no affiliation or connection to Magic-Earth or its developers in any way.
 
