@@ -97,6 +97,14 @@ To change the name of a contact you have to create a new contact
 > ++ Silent Emergency-SOS ++<br/>
 > I need help! , DO NOT CALL BACK! , please send help to my location!
 
+## Location Messages
+
+Sending a SOS-Message will additionally deliver the current Location of the person requesting the help. This is done by sending two links, one that can be opened in the Google-Maps App and another that can be opened in the Magic-Earth App. These apps need to be previously installed for the links to be able to be opened there.
+
+Magic-Earth is the recommended App to open the shared Location coordinates due to its privacy oriented nature which aligns with this SoS-Listener's commitment to respect the End-User's privacy. Additionally Magic-Earth offers the possibility to download (at no cost) offline maps for entire and multiple countries across the worls if desired. This allows the sender and the receiver to share and pinpoint any Location coordinates in an offline map when no internet connectivity is available and as long as the region was previously downloaded in Magic-Earth. The Google-Maps App was chosen as one of the two options to open Location coordinates due to its popularity and wide adoption across multiple devices and countries. 
+
+Disclaimer: The developer or this App have no affiliation or connection to Magic-Earth or its developers in any way.
+
 ## Activate the Quick-Call Emergency-Buttons
 
 This App comes with three (deactivated by default) buttons at the top of the main screen. Each button can be associated with an emergency number e.g.: Fire Department, Police, Medical Services, and can, once activated, be used directly from the main screen to call instantly the number they were associated with. To activate one or more of these buttons do the following:
