@@ -127,6 +127,8 @@ This App comes with three (deactivated by default) buttons at the top of the mai
 
 At the end of the following steps you should end up with a single and updated App installation. The update should NEVER create a duplicate of the App. If you notice a duplicate was created after the update it could mean it is not the original APK published by the developer. Uninstall the App duplicate, delete the recently downloaded APK and please inform the developer about this.
 
+To update the App:
+
 1. Download the new release in the official GitHub Website/Repository (search for the "Releases" in the column on the right side of the page).
 2. Go to the location where the APK was downloaded (usually the Downloads folder).
 3. Tap on the recently downloaded APK and click on install and proceed with the installation steps that will follow. If during the installation you receive a message that there is a problem with the Signature it could mean that the App was tampered by someone else and therefore the Signatures of the original APK and the new APK do not match. In such case Android should prevent the installation since this is a security issue. In such case do not install the new APK and please inform the Developer about this.
