@@ -37,7 +37,7 @@ To the End-User of this App, please:
 
 ## Features
 
-- **GPS coordinates display**: To allow the user to know its current location at all times whenever the location services and permissions are activated/granted.
+- **GPS coordinates display**: _To allow the user to know its current location at all times whenever the location services and permissions are activated/granted._
 - **Add Emergency Contacts**
 - **Update Emergency-Contacts**
 - **Delete Emergency-Contacts**
