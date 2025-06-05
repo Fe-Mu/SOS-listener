@@ -42,9 +42,9 @@ To the End-User of this App, please:
 - _Update Emergency-Contacts_
 - _Delete Emergency-Contacts_
 - _Call Emergency-Contacts_
-- _Send GPS position along with SOS-Messages_: To let your emergency-contact know your current position.
-- _Send SOS-Messages_: To let your emergency-contact know your location and that they should call you back whenever they can and get help as soon as possible.
-- _Send Silent-SOS-Messages_: To let your emergency-contact know your location and let them know they should not attempt to call you back but get help as soon as possible.
+- _Send GPS position along with SOS-Messages_: To let an emergency-contact know your current position.
+- _Send SOS-Messages_: To let an emergency-contact know your location and that they should call you back whenever they can and get help as soon as possible.
+- _Send Silent-SOS-Messages_: To let an emergency-contact know your location and let them know they should not attempt to call you back but get help as soon as possible.
 - _Ability to activate up to three Quick-Call Emergency-Buttons_: To contact without delay any of your local authorities/emergency-institutions
 - _Ability to change between light and dark themes_
 
