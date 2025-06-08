@@ -44,7 +44,6 @@ To the End-User of this App, please:
 - _Delete Emergency-Contacts_<br/><br/>
 - _Call Emergency-Contacts_<br/><br/>
 - _Send GPS position along with SOS-Messages_<br/>
-    - To let an emergency-contact know your current position.<br/><br/>
 - _Send SOS-Messages_<br/>
     - To let an emergency-contact know your location and that they should call you back whenever they can and get help as soon as possible.<br/><br/>
 - _Send Silent-SOS-Messages_<br/>
