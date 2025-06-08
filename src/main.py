@@ -1662,7 +1662,7 @@ The spiral icon used for the creation of the Logo of this App was obtained from 
             # Sends an SOS SMS message to the selected emergency-contact
             sms.send(recipient="+" + self.store[name]['country'] + self.store[name]['telephone']
                      ,
-                     message='++ Emergency-SOS ++\nI need help! , PLEASE CALL BACK! , if I dont answer please send help to my location!'
+                     message='++ Emergency-SOS ++\nI need help! , please CALL BACK! , if I dont answer please send help to my location!'
                      )
 
             time.sleep(1)
@@ -1690,7 +1690,7 @@ The spiral icon used for the creation of the Logo of this App was obtained from 
             # Sends a silent SOS SMS to the selected emergency-contact
             sms.send(recipient="+" + self.store[name]['country'] + self.store[name]['telephone']
                      ,
-                     message='++ Silent Emergency-SOS ++\nI need help! , DO NOT CALL BACK! , please send help to my location!'
+                     message='++ Silent Emergency-SOS ++\nI need help! , please DO NOT CALL BACK! , please send help to my location!'
                      )
 
             time.sleep(1)
