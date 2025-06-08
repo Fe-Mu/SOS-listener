@@ -111,8 +111,8 @@ Disclaimer: The developer or this App has no affiliation, support or relationshi
 This App comes with three (deactivated by default) buttons at the top of the main screen. Each button can be associated with an emergency number e.g.: Fire Department, Police, Medical Services, and can, once activated, be used directly from the main screen to call instantly the number they were associated with. To activate one or more of these buttons do the following:
 
 1. Tap on the "Add/Manage Buttons" button in the main screen.
-2. When the new popup window opens, write a new emergency number in one of the text fields next to the label -- Emergency Nr. 1, 2 or 3-- and toggle the switch next to it to the ON state.
-3. The color of the -- Emergency Nr. -- label will match, as a result, the color of the button that later will be displayed in the main screen.
+2. When the new popup window opens, write a new emergency number in one of the text fields next to the label "-- Emergency Nr. --" and toggle the switch next to it to the ON state.
+3. The color of the "-- Emergency Nr. --" label will match, as a result, the color of the button that later will be displayed in the main screen.
 4. Click on the "Update" button at the bottom of the screen.
 5. The activated button will be available for its use at the top of the main screen in the chosen color.
 
@@ -121,7 +121,7 @@ This App comes with three (deactivated by default) buttons at the top of the mai
 This App comes with three (deactivated by default) buttons at the top of the main screen. Each button can be associated with an emergency number e.g.: Fire Department, Police, Medical Services, and can, once activated, be used directly from the main screen to call instantly the number they were associated with. To change/delete one or more of these emergency numbers do the following:
 
 1. Tap on the "Add/Manage Buttons" button in the main screen.
-2. When the new popup window opens, write a new emergency number (or a non-callable number e.g. "---") in one of the text fields next to the label "-- Emergency Nr.--".
+2. When the new popup window opens, write a new emergency number in one of the text fields next to the label "-- Emergency Nr. --".
 3. Click on the "Update" button at the bottom of the screen.
 4. The changed emergency number button will be displayed in the button at the top of the main screen.
 
