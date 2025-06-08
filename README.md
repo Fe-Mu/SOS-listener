@@ -43,13 +43,13 @@ _Save Emergency-Contacts_<br/><br/>
 _Update Emergency-Contacts_<br/><br/>
 _Delete Emergency-Contacts_<br/><br/>
 _Call Emergency-Contacts_<br/><br/>
-_Send GPS position along with SOS-Messages_
+_Send GPS position along with SOS-Messages_<br/>
 To let an emergency-contact know your current position.<br/><br/>
-_Send SOS-Messages_
+_Send SOS-Messages_<br/>
 To let an emergency-contact know your location and that they should call you back whenever they can and get help as soon as possible.<br/><br/>
-_Send Silent-SOS-Messages_
+_Send Silent-SOS-Messages_<br/>
 To let an emergency-contact know your location and let them know they should not attempt to call you back but get help as soon as possible.<br/><br/>
-_Ability to activate up to three Quick-Call Emergency-Buttons_
+_Ability to activate up to three Quick-Call Emergency-Buttons_<br/>
 To contact without delay any of your local authorities/emergency-institutions<br/><br/>
 _Ability to change between light and dark themes_
 
