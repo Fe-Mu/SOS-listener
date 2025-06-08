@@ -1,0 +1,265 @@
+
+{
+  "1":
+      {
+      "License": "MIT License",
+      "Name": "kivy",
+      "Version": "2.3.0",
+      "url": "https://github.com/kivy/kivy/blob/master/LICENSE"
+      },
+
+  "2":
+      {
+      "License": "MIT License",
+      "Name": "kivymd",
+      "Version": "1.2.0",
+      "url": "https://github.com/kivymd/KivyMD/blob/master/LICENSE"
+      },
+
+  "3":
+      {
+      "License": "MIT",
+      "Name": "buildozer",
+      "Version": "1.5.0",
+      "url": "https://github.com/kivy/buildozer/blob/master/LICENSE"
+      },
+
+  "4":
+      {
+      "License": "MIT License",
+      "Name": "plyer",
+      "Version": "2.1.0",
+      "url": "https://github.com/kivy/plyer/blob/master/LICENSE"
+      },
+
+  "5":
+      {
+      "License": "MIT License",
+      "Name": "pyjnius",
+      "Version": "1.6.1",
+      "url": "https://github.com/kivy/pyjnius/blob/master/LICENSE"
+      },
+
+  "6":
+      {
+      "License": "MIT License",
+      "Name": "python-for-android",
+      "Version": "2024.1.21",
+      "url": "https://github.com/kivy/python-for-android/blob/develop/LICENSE"
+      },
+
+  "7":
+      {
+      "License": "Apache Software License",
+      "Name": "Cython",
+      "Version": "0.29.33",
+      "url": "https://github.com/cython/cython/blob/master/LICENSE.txt"
+      },
+
+  "8":
+      {
+      "License": "MIT License",
+      "Name": "pip-licenses",
+      "Version": "5.0.0",
+      "url": "https://github.com/raimon49/pip-licenses/blob/master/LICENSE"
+      },
+
+  "9":
+      {
+      "License": "BSD License",
+      "Name": "Jinja2",
+      "Version": "3.1.6",
+      "url" : "https://github.com/pallets/jinja/blob/main/LICENSE.txt"
+      },
+
+  "10":
+      {
+      "License": "MIT",
+      "Name": "Kivy-Garden",
+      "Version": "0.1.5",
+      "url": "https://github.com/kivy-garden/garden/blob/master/LICENSE"
+      },
+
+  "11":
+      {
+      "License": "BSD License",
+      "Name": "MarkupSafe",
+      "Version": "3.0.2",
+      "url": "https://github.com/pallets/markupsafe/blob/main/LICENSE.txt"
+      },
+
+  "12":
+      {
+      "License": "BSD License",
+      "Name": "Pygments",
+      "Version": "2.19.1",
+      "url": "https://github.com/pygments/pygments/blob/master/LICENSE"
+      },
+  "13":
+      {
+      "License": "MIT License",
+      "Name": "appdirs",
+      "Version": "1.4.4",
+      "url": "https://github.com/ActiveState/appdirs/blob/master/LICENSE.txt"
+      },
+  "14":
+      {
+      "License": "MIT License",
+      "Name": "build",
+      "Version": "1.2.2.post1",
+      "url": "https://github.com/pypa/build/blob/main/LICENSE"
+      },
+
+  "15":
+      {
+      "License": "Mozilla Public License 2.0 (MPL 2.0)",
+      "Name": "certifi",
+      "Version": "2025.1.31",
+      "url": "https://github.com/certifi/python-certifi/blob/master/LICENSE"
+      },
+
+  "16":
+      {
+      "License": "MIT License",
+      "Name": "charset-normalizer",
+      "Version": "3.4.1",
+      "url": "https://github.com/jawah/charset_normalizer/blob/master/LICENSE"
+      },
+
+  "17":
+      {
+      "License": "BSD License",
+      "Name": "colorama",
+      "Version": "0.4.6",
+      "url": "https://github.com/tartley/colorama/blob/master/LICENSE.txt"
+      },
+
+  "18":
+      {
+      "License": "Python Software Foundation License",
+      "Name": "distlib",
+      "Version": "0.3.9",
+      "url": "https://github.com/pypa/distlib/blob/master/LICENSE.txt"
+      },
+
+  "19":
+      {
+      "License": "BSD License; GNU General Public License (GPL); Public Domain; Python Software Foundation License",
+      "Name": "docutils",
+      "Version": "0.21.2",
+      "url": "https://docutils.sourceforge.io"
+      },
+
+  "20":
+      {
+      "License": "The Unlicense (Unlicense)",
+      "Name": "filelock",
+      "Version": "3.18.0",
+      "url": "https://github.com/tox-dev/filelock/blob/main/LICENSE"
+      },
+
+  "21":
+      {
+      "License": "MIT License",
+      "Name": "filetype",
+      "Version": "1.2.0",
+      "url": "https://github.com/h2non/filetype.py/blob/master/LICENSE"
+      },
+
+  "22":
+      {
+      "License": "BSD License",
+      "Name": "idna",
+      "Version": "3.10",
+      "url": "https://github.com/kjd/idna/blob/master/LICENSE.md"
+      },
+
+  "23":
+      {
+      "License": "Apache Software License; BSD License",
+      "Name": "packaging",
+      "Version": "25.0",
+      "url": "https://github.com/pypa/packaging/blob/main/LICENSE"
+      },
+
+  "24":
+      {
+      "License": "ISC License",
+      "Name": "pexpect",
+      "Version": "4.9.0",
+      "url": "https://github.com/pexpect/pexpect/blob/master/LICENSE"
+      },
+
+  "25":
+      {
+      "License": "CMU License (MIT-CMU)",
+      "Name": "pillow",
+      "Version": "11.0.0",
+      "url":"https://github.com/python-pillow/Pillow/blob/main/LICENSE"
+      },
+
+  "26":
+      {
+      "License": "MIT License",
+      "Name": "platformdirs",
+      "Version": "4.3.7",
+      "url": "https://github.com/tox-dev/platformdirs/blob/main/LICENSE"
+      },
+
+  "27":
+      {
+      "License": "ISC License",
+      "Name": "ptyprocess",
+      "Version": "0.7.0",
+      "url": "https://github.com/pexpect/ptyprocess/blob/master/LICENSE"
+      },
+
+  "28":
+      {
+      "License": "MIT License",
+      "Name": "pyproject_hooks",
+      "Version": "1.2.0",
+      "url": "https://github.com/pypa/pyproject-hooks/blob/main/LICENSE"
+      },
+
+  "29":
+      {
+      "License": "Apache Software License",
+      "Name": "requests",
+      "Version": "2.32.3",
+      "url": "https://requests.readthedocs.io"
+      },
+
+  "30":
+      {
+      "License": "MIT License",
+      "Name": "sh",
+      "Version": "1.14.3",
+      "url": "https://github.com/amoffat/sh/blob/develop/LICENSE.txt"
+      },
+
+  "31":
+      {
+      "License": "MIT License",
+      "Name": "toml",
+      "Version": "0.10.2",
+      "url": "https://github.com/uiri/toml/blob/master/LICENSE"
+      },
+
+  "32":
+      {
+      "License": "MIT License",
+      "Name": "urllib3",
+      "Version": "2.3.0",
+      "url": "https://github.com/urllib3/urllib3/blob/main/LICENSE.txt"
+      },
+
+  "33":
+      {
+      "License": "MIT License",
+      "Name": "virtualenv",
+      "Version": "20.30.0",
+      "url": "https://github.com/pypa/virtualenv/blob/main/LICENSE"
+      }
+
+  }
