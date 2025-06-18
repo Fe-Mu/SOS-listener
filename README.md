@@ -163,7 +163,7 @@ To restore your emergence-contacts:
 
 ## Manually Update App
 
-<ins>Before an App update make sure you first backup your emergency-contacts (see above) since the manually updating the App will delete the existing contacts.</ins>
+<ins>Before an App update make sure you first backup your emergency-contacts (see above), since the manually updating the App will delete the existing emergency-contacts.</ins>
 
 At the end of the following steps you should end up with a single and updated App installation. The update should NEVER create a duplicate of the App. If you notice a duplicate was created after the update it could mean it is not the original APK published by the developer. Uninstall the App duplicate, delete the recently downloaded APK and please inform the developer about this.
 
