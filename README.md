@@ -137,7 +137,33 @@ This App comes with three (deactivated by default) buttons at the top of the mai
 3. Click on the "Update" button at the bottom of the screen.
 4. The deactivated button will be displayed at the top of the main screen in grey color.
 
+## Backup emergency-contacts
+
+To perform a backup of your emergence-contacts:
+
+1. Tap on the "Add/Manage Buttons" button in the main screen.
+2. Tap on the "Backup" button.
+3. A backup of your emergency-contacts will be automatically generated inside the system's /Documents/SoS-Listener directory.
+4. A small confirmation popup window will appear.
+5. Tap anywhere outside the popup window to close it.
+6. Tap on the "Exit" button.
+
+## Restore emergency-contacts
+
+To restore your emergence-contacts:
+
+1. Tap on the "Add/Manage Buttons" button in the main screen.
+2. Tap on the "Restore" button.
+3. Search for the backup file in the system's /Documents/SoS-Listener directory.
+4. Select and confirm the file selection.
+5. A small confirmation popup window will appear.
+6. Tap anywhere outside the popup window to close it.
+7. Tap on the "Exit" button.
+8. Close and Restart the App to allow the changes to be able to take place.
+
 ## Manually Update App
+
+Before an App update make sure you first backup your emergency-contacts (see above) since the manually updating the App will delete the existing contacts.
 
 At the end of the following steps you should end up with a single and updated App installation. The update should NEVER create a duplicate of the App. If you notice a duplicate was created after the update it could mean it is not the original APK published by the developer. Uninstall the App duplicate, delete the recently downloaded APK and please inform the developer about this.
 
