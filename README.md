@@ -1,5 +1,5 @@
 
-# SoS-Listener <img align="right" src="src/logo.png" height="150" width="150" alt="SOS Listener Logo"/>
+# SoS-Listener <img align="right" src="res/logo.png" height="150" width="150" alt="SOS Listener Logo"/>
 
 A simple, easy-to-use, tool/App to request help during emergency situations.
 
