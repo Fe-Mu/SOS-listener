@@ -148,20 +148,18 @@ To perform a backup of your emergence-contacts:
 3. A backup of your emergency-contacts will be automatically generated inside the system's /Documents/SoS-Listener directory.
 4. A small confirmation popup window will appear.
 5. Tap anywhere outside the popup window to close it.
-6. Tap on the "Exit" button.
 
 ## Restore emergency-contacts
 
 To restore your emergence-contacts:
 
 1. Tap on the "Add/Manage Buttons" button in the main screen.
-2. Tap on the "Restore" button.
-3. Search for the backup file in the system's /Documents/SoS-Listener directory.
+2. Tap on the "Restore" button of the popup window.
+3. Search for the backup file inside the system's /Documents/SoS-Listener directory.
 4. Select and confirm the file selection.
 5. A small confirmation popup window will appear.
 6. Tap anywhere outside the popup window to close it.
-7. Tap on the "Exit" button.
-8. Close and Restart the App to allow the changes to be able to take place.
+7. Close and Restart the App and the App will automatically load the imported emergency-contacts.
 
 ## Manually Update App
 
