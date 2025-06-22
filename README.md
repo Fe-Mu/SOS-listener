@@ -109,7 +109,7 @@ Sending a SOS-Message will also share the current Location of the person request
 1. Magic Earth is the recommended App to open shared Location coordinates due to its privacy-oriented nature which aligns with SOS-listener's commitment to respect the End-User's privacy. Additionally Magic Earth offers the possibility to download (at no cost) offline maps for entire and multiple countries across the world if desired. This allows the sender and the receiver to share and pinpoint any Location coordinates in an offline map when no internet connectivity is available (as long as the region was previously downloaded in Magic Earth).
 2. Google Maps was chosen as the second App to open shared Location coordinates due to its popularity and wide adoption across multiple devices and countries. 
 
-Disclaimer: The developer or this App has no affiliation, support or relationship with/from Magic Earth or Google in any way.
+>Disclaimer: The developer or this App has no affiliation, support or relationship with/from Magic Earth or Google in any way.
 
 ## Activate the Quick-Call Emergency-Buttons
 
@@ -161,7 +161,7 @@ To restore your emergence-contacts:
 6. Tap anywhere outside the popup window to close it.
 7. Close and Restart the App and the App will automatically load the imported emergency-contacts.
 
-For security reasons it is recommended that you delete the backup or that you save it in a secure place (not in your phone) after restoring the emergency-contacts.
+>For security reasons it is recommended that you delete the backup or that you save it in a secure place (not in your phone) after restoring the emergency-contacts.
 
 ## Manually Update App
 
