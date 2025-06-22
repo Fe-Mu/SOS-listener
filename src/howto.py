@@ -141,8 +141,6 @@ This App comes with three (deactivated by default) buttons at the top of the mai
     4. A small confirmation popup window will appear.
     5. Tap anywhere outside the popup window to close it.
 
-For security reasons it is recommended that you delete the backup or that you save it in a secure place (not in your phone) after restoring the emergency-contacts.
-
 
 [b]Restore emergency-contacts[/b]
 
@@ -153,6 +151,8 @@ For security reasons it is recommended that you delete the backup or that you sa
     5. A small confirmation popup window will appear.
     6. Tap anywhere outside the popup window to close it.
     7. Close and restart the App to automatically load the imported emergency-contacts.
+
+For security reasons it is recommended that you delete the backup or that you save it in a secure place (not in your phone) after restoring the emergency-contacts.
 
 
 [b]Manually Update App[/b]
