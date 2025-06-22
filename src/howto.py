@@ -135,18 +135,16 @@ This App comes with three (deactivated by default) buttons at the top of the mai
 
 [b]Backup emergency-contacts[/b]
 
-To perform a backup of your emergence-contacts:
-
     1. Tap on the "Add/Manage Buttons" button in the main screen.
     2. Tap on the "Backup" button.
     3. A backup of your emergency-contacts will be automatically generated in the system's /Documents/SOS-listener directory.
     4. A small confirmation popup window will appear.
     5. Tap anywhere outside the popup window to close it.
 
+For security reasons it is recommended that you delete the backup or that you save it in a secure place (not in your phone) after restoring the emergency-contacts.
+
 
 [b]Restore emergency-contacts[/b]
-
-To restore your emergence-contacts:
 
     1. Tap on the "Add/Manage Buttons" button in the main screen.
     2. Tap on the "Restore" button of the popup window.
