@@ -1339,7 +1339,7 @@ The spiral icon used for the creation of the Logo of this App was obtained from 
                                         , size_hint=(0.5, None)
                                         , height='40dp'
                                         )
-        self.txt_input_country = TextInput(hint_text='Enter a two-digit country code: e.g. 55'
+        self.txt_input_country = TextInput(hint_text='Enter a country code: e.g. 55'
                                            , font_size='15dp'
                                            , border=(4, 4, 4, 4)
                                            , multiline=False
