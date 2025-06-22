@@ -161,6 +161,8 @@ To restore your emergence-contacts:
 6. Tap anywhere outside the popup window to close it.
 7. Close and Restart the App and the App will automatically load the imported emergency-contacts.
 
+For security reasons it is recommended that you delete the backup or that you save it in a secure place (not in your phone) after restoring the emergency-contacts.
+
 ## Manually Update App
 
 <ins>Before an App update make sure you make first a backup of your emergency-contacts (see above), since the manually updating the App will delete the existing emergency-contacts.</ins>
