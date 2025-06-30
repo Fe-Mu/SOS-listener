@@ -9,6 +9,7 @@ A simple, easy-to-use, tool/App to request help during emergency situations.
 2. This App is not guaranteed at any moment to function as intended. There are too many potential reasons, from hardware to software, why this App could fail to perform as intended, and therefore it can not be considered as a reliable source of help in an emergency situation. No end-user should rely solely on this App to provide or request aid, rescue or help in any given case or situation.
 3. This App comes with no warranty of any kind. The use of this App is at the end-user's own risk.
 4. This is not an App intended to be used as a phone contact book. This App was developed to be a potential source of help in case of an emergency. Use this App as intended, otherwise it could and might increase the probability of undesired results to happen.
+5. SOS-listener will never require you to make any payment or ask you to enter your own private information, passwords, bank account or anything similar. In case of such events please report it to the Developer as soon as possible.
 
 ## Introduction
 
@@ -21,7 +22,7 @@ Quick access to essential features and a clean interface were prioritized instea
 This App does not aim to be the most feature rich of its kind (since that would defeat the purpose of its simplicity). 
 This App focuses on being **Simple, Intuitive, Easy to use, Essential and Private**. 
 
->IMPORTANT: Make sure your emergency-contacts have also you saved as contact so that, in case of an emergency, they will be able to identify which person is calling them or sending them an SOS-message.
+>IMPORTANT: For security reasons it is very important that your emergency-contacts have also you saved in their contacts so that, in case of an emergency, they will be able to clearly identify which person is calling them or sending them an SOS-message.
 
 ## Code of Conduct
 
