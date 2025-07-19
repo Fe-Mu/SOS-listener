@@ -173,8 +173,8 @@ Option 1:
 3. Depending on your phone interface tap on "App manager" or "See all apps".
 4. Tap on your App's name
 5. You will be taken to the App's information window where you should be able to find the version that is currently installed on your device.
-6. Check that the App version that is installed on your device is the same version found on https://github.com/Fe-Mu/SOS-listener/releases
-7. Update the App if versions are not the same
+6. Check if the App version that is installed on your device is the same version found on https://github.com/Fe-Mu/SOS-listener/releases
+7. Manually update the App on your device if the two App versions are not the same
     
 Option 2:
     
@@ -182,8 +182,8 @@ Option 2:
 2. A small menu will appear will a few options.
 3. Tap on "App info" or on the circle with a letter "i".
 4. You will be taken to the App's information window where you should be able to find the version that is currently installed on your device.
-5. Check that the App version that is installed on your device is the same version found on https://github.com/Fe-Mu/SOS-listener/releases
-6. Update the App if versions are not the same
+5. Check if the App version that is installed on your device is the same version found on https://github.com/Fe-Mu/SOS-listener/releases
+6. Manually update the App on your device if the two App versions are not the same
    
 >It is highly recommended to always update and run the latest version of the App.
 
