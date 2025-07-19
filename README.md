@@ -173,7 +173,8 @@ Option 1:
 3. Depending on your phone interface tap on "App manager" or "See all apps".
 4. Tap on your App's name
 5. You will be taken to the App's information window where you should be able to find the version that is currently installed on your device.
-6. You can compare the App version that is installed on your device with the App version on [u]https://github.com/Fe-Mu/SOS-listener/releases[/u]. It is recommended to always update to the latest version.
+6. You can compare the App version that is installed on your device with the App version on https://github.com/Fe-Mu/SOS-listener/releases
+7. It is highly recommended to always update to the latest version.
     
 Option 2:
     
@@ -181,7 +182,8 @@ Option 2:
 2. A small menu will appear will a few options.
 3. Tap on "App info" or on the circle with a letter "i".
 4. You will be taken to the App's information window where you should be able to find the version that is currently installed on your device.
-5. You can compare the App version that is installed on your device with the App version on [u]https://github.com/Fe-Mu/SOS-listener/releases[/u]. It is recommended to always update to the latest version.
+5. You can compare the App version that is installed on your device with the App version on https://github.com/Fe-Mu/SOS-listener/releases
+6. It is highly recommended to always update to the latest version.
 
 ## Manually Update App
 
