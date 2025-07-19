@@ -164,6 +164,25 @@ To restore your emergence-contacts:
 
 >IMPORTANT: For security reasons it is recommended that you delete the backup or that you save it in a secure place (not in your phone) after restoring the emergency-contacts.
 
+## Check which version of the App is installed
+
+Option 1:
+    
+1. Go to Settings
+2. Go to Apps
+3. Depending on your phone interface tap on "App manager" or "See all apps".
+4. Tap on your App's name
+5. You will be taken to the App's information window where you should be able to find the version that is currently installed on your device.
+6. You can compare the App version that is installed on your device with the App version on [u]https://github.com/Fe-Mu/SOS-listener/releases[/u]. It is recommended to always update to the latest version.
+    
+Option 2:
+    
+1. Touch and hold down the App icon in your phone for a short moment.
+2. A small menu will appear will a few options.
+3. Tap on "App info" or on the circle with a letter "i".
+4. You will be taken to the App's information window where you should be able to find the version that is currently installed on your device.
+5. You can compare the App version that is installed on your device with the App version on [u]https://github.com/Fe-Mu/SOS-listener/releases[/u]. It is recommended to always update to the latest version.
+
 ## Manually Update App
 
 <ins>Before an App update make sure you make first a backup of your emergency-contacts (see above), since the manually updating the App will delete the existing emergency-contacts.</ins>
@@ -172,10 +191,11 @@ At the end of the following steps you should end up with a single and updated Ap
 
 To update the App:
 
-1. Go to https://github.com/Fe-Mu/SOS-listener/releases and download the newest/latest App release from the official GitHub Repository.
-2. Go to the location where the APK was downloaded (usually the Downloads folder).
-3. Tap on the downloaded APK and click on install and proceed with the installation steps that will follow. If during the installation you receive a message that there is a problem with the Signature it could mean that the App was tampered by someone else and therefore the Signatures of the original APK and the new APK do not match. In such case Android should prevent the installation since this is a security issue. In such case do not install the new APK and please inform the Developer about this.
-4. If everything went well the App should now have the latest updates.
+1. Close the App if the App is running
+2. Go to https://github.com/Fe-Mu/SOS-listener/releases and download the newest/latest App release from the official GitHub Repository.
+3. Go to the location where the APK was downloaded (usually the Downloads folder).
+4. Tap on the downloaded APK and click on install and proceed with the installation steps that will follow. If during the installation you receive a message that there is a problem with the Signature it could mean that the App was tampered by someone else and therefore the Signatures of the original APK and the new APK do not match. In such case Android should prevent the installation since this is a security issue. In such case do not install the new APK and please inform the Developer about this.
+5. If everything went well the App should now have the latest updates.
 
 ## Activate/Deactivate the light-theme
 
