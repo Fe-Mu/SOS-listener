@@ -168,6 +168,10 @@ To restore your emergence-contacts:
 
 Option 1:
     
+    1. Check the app version displayed on the top on the main screen
+    
+Option 2:
+    
 1. Go to Settings
 2. Go to Apps
 3. Depending on your phone interface tap on "App manager" or "See all apps".
@@ -176,7 +180,7 @@ Option 1:
 6. Check if the App version that is installed on your device is the same version found on https://github.com/Fe-Mu/SOS-listener/releases
 7. Manually update the App on your device if the two App versions are not the same
     
-Option 2:
+Option 3:
     
 1. Touch and hold down the App icon in your phone for a short moment.
 2. A small menu will appear will a few options.
