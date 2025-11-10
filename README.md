@@ -168,7 +168,7 @@ To restore your emergence-contacts:
 
 Option 1:
     
-    1. Check the app version displayed on the top on the main screen
+1. Check the app version displayed on the top on the main screen
     
 Option 2:
     
