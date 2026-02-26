@@ -91,7 +91,7 @@ To the End-User of this App, please:
 1. Tap on the emergency-contact button
 2. Tap on the "Send-SOS" button in the new popup window
 3. An SOS with the following message will be sent:
-> ++ Emergency-SOS ++<br/> 
+> -- Emergency-SOS --<br/> 
 > I need help! , please CALL BACK! , if I do not answer please send help to my location!
 
 ## Send Silent-SOS-Message
@@ -99,7 +99,7 @@ To the End-User of this App, please:
 1. Tap on the emergency-contact button
 2. Tap on the "Silent-SOS" button in the new popup window
 3. A Silent-SOS with the following message will be sent:
-> ++ Silent Emergency-SOS ++<br/>
+> -- Silent Emergency-SOS --<br/>
 > I need help! , please DO NOT CALL BACK! , please send help to my location!
 
 ## Location Messages
