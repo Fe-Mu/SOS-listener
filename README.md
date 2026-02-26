@@ -104,12 +104,12 @@ To the End-User of this App, please:
 
 ## Location Messages
 
-Sending a SOS-Message will also share the current Location of the person requesting the help in the form of a link that can be opened either on the Magic Earth App or on the Google Maps App. These apps need to be previously installed in order for the links to be able to be opened there.
+Sending a SOS-Message will also share the current Location of the person requesting the help in the form of a link that can be opened either on the Magic Earth App or on the Google Maps App. These apps need to be previously installed in order to be able to open the shared locations there.
 
-1. Magic Earth is the recommended App to open shared Location coordinates due to its privacy-oriented nature which aligns with SOS-listener's commitment to respect the End-User's privacy. Additionally Magic Earth offers the possibility to download (at no cost) offline maps for entire and multiple countries across the world if desired. This allows the sender and the receiver to share and pinpoint any Location coordinates in an offline map when no internet connectivity is available (as long as the region was previously downloaded in Magic Earth).
-2. Google Maps was chosen as the second App to open shared Location coordinates due to its popularity and wide adoption across multiple devices and countries. 
+    1. Magic Earth is still the recommended App to open shared Location coordinates due to its privacy-oriented nature which aligns with SOS-listener's commitment to respect the end-user's privacy. However Magic Earth does not offer anymore the possibility to download free of charge offline maps for entire and multiple countries across the world if desired, this functionality is now only available if you have a paid subscription. This allows the sender and the receiver to share and pinpoint any Location coordinates in an offline map when no internet connectivity is available (as long as the region was previously downloaded in Magic Earth).
+    2. Google Maps was chosen as the second App to open shared Location coordinates due to its popularity and wide adoption across multiple devices and countries. 
 
-Disclaimer: The developer or this App has no affiliation, support or relationship with/from Magic Earth or Google in any way.
+Disclaimer: The developer of this App has no affiliation or relationship with Magic Earth or Google.
 
 ## Activate the Quick-Call Emergency-Buttons
 
