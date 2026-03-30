@@ -21,7 +21,7 @@ Quick access to essential features and a clean interface were prioritized instea
 This App does not aim to be the most feature rich of its kind (since that would defeat the purpose of its simplicity). 
 This App focuses on being **Simple, Intuitive, Easy to use, Essential and Private**. 
 
->IMPORTANT: For security reasons it is very important that your emergency-contacts have also you saved in their contacts so that, in case of an emergency, they will be able to clearly identify which person is calling them or sending them an SOS-message.
+>IMPORTANT: For security reasons it is very important that your emergency-contacts also have you saved in their contacts so that, in case of an emergency, they will be able to clearly identify which person is calling them or sending them an SOS-message.
 
 ## Code of Conduct
 
