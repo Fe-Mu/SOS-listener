@@ -53,6 +53,7 @@ To the End-User of this App, please:
     - To contact without delay any of your local authorities/emergency-institutions<br/><br/>
 - _Backup emergency-contacts_<br/><br/>
 - _Restore emergency-contacts_<br/><br/>
+- _Ability to activate/deactivate test mode_<br/><br/>
 - _Ability to change between light and dark themes_
 
 ## Save a new contact
