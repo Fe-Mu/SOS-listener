@@ -1,7 +1,7 @@
 
 # SOS-listener <img align="right" src="res/logo.png" height="150" width="150" alt="SOS Listener Logo"/>
 
-A simple, easy-to-use, tool/App that offers the potential for SOS request in emergency situations..
+A simple, easy-to-use, tool/App that offers the potential for SOS request in emergency situations.
 
 ## Disclaimer
 
