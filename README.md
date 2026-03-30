@@ -1,7 +1,7 @@
 
 # SOS-listener <img align="right" src="res/logo.png" height="150" width="150" alt="SOS Listener Logo"/>
 
-A simple, easy-to-use, tool/App to request help during emergency situations.
+A simple, easy-to-use, tool/App that offers the potential for SOS request in emergency situations..
 
 ## Disclaimer
 
@@ -88,19 +88,34 @@ To the End-User of this App, please:
 
 ## Send SOS-Message
 
-1. Tap on the emergency-contact button
+1. Make sure the "Test Mode" is deactivated
+2. Tap on the emergency-contact button
 2. Tap on the "Send-SOS" button in the new popup window
 3. An SOS with the following message will be sent:
-> -- Emergency-SOS --<br/> 
+> Emergency-SOS<br/>
+> --<br/>
 > I need help! , please CALL BACK! , if I do not answer please send help to my location!
 
 ## Send Silent-SOS-Message
 
-1. Tap on the emergency-contact button
-2. Tap on the "Silent-SOS" button in the new popup window
-3. A Silent-SOS with the following message will be sent:
-> -- Silent Emergency-SOS --<br/>
+1. Make sure the "Test Mode" is deactivated
+2. Tap on the emergency-contact button
+3. Tap on the "Silent-SOS" button in the new popup window
+4. A Silent-SOS with the following message will be sent:
+> Silent Emergency-SOS<br/>
+> --<br/>
 > I need help! , please DO NOT CALL BACK! , please send help to my location!
+
+## Send Test SOS-Message
+                                                            
+ 1. Make sure the "Test Mode" is activated                           
+ 2. Tap on the emergency-contact button                              
+ 3. Tap on the "Test SOS" button in the new popup window             
+ 4. A Test-SOS with the following message will be sent:              
+                                                                     
+ >Test Emergency-SOS<br/>                                               
+ >--<br/>                                                               
+ >This is just a test message , ITS ALL GOOD! , please just ignore it.
 
 ## Location Messages
 
@@ -171,6 +186,12 @@ To update the App:
 2. Go to the location where the APK was downloaded (usually the Downloads folder).
 3. Tap on the downloaded APK and click on install and proceed with the installation steps that will follow. If during the installation you receive a message that there is a problem with the Signature it could mean that the App was tampered by someone else and therefore the Signatures of the original APK and the new APK do not match. In such case Android should prevent the installation since this is a security issue. In such case do not install the new APK and please inform the Developer about this.
 4. If everything went well the App should now have the latest updates.
+
+## Activate/Deactivate the test mode
+
+1. Tap on the "Add/Manage Buttons" button in the main screen.
+2. When the new popup screen opens, toggle the "Test Mode" switch at the top of the window to the desired ON/OFF state.
+3. The test mode will be activated/deactivated accordingly.
 
 ## Activate/Deactivate the light-theme
 
