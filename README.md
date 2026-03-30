@@ -47,6 +47,8 @@ To the End-User of this App, please:
     - To let an emergency-contact know your location and that they should call you back whenever they can and get help as soon as possible.<br/><br/>
 - _Send Silent-SOS-Messages_<br/>
     - To let an emergency-contact know your location and let them know they should not attempt to call you back but get help as soon as possible.<br/><br/>
+- _Send Test SOS-Messages_<br/>
+    - To test a saved contact without sending an emergency text on the SOS-Message.<br/><br/>
 - _Ability to activate up to three Quick-Call Emergency-Buttons_<br/>
     - To contact without delay any of your local authorities/emergency-institutions<br/><br/>
 - _Backup emergency-contacts_<br/><br/>
