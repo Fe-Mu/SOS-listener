@@ -108,14 +108,13 @@ To the End-User of this App, please:
 
 ## Send Test SOS-Message
                                                             
- 1. Make sure the "Test Mode" is activated                           
- 2. Tap on the emergency-contact button                              
- 3. Tap on the "Test SOS" button in the new popup window             
- 4. A Test-SOS with the following message will be sent:              
-                                                                     
- >Test Emergency-SOS<br/>                                               
- >--<br/>                                                               
- >This is just a test message , ITS ALL GOOD! , please just ignore it.
+1. Make sure the "Test Mode" is activated                           
+2. Tap on the emergency-contact button                              
+3. Tap on the "Test SOS" button in the new popup window             
+4. A Test-SOS with the following message will be sent:                                                                                
+> Test Emergency-SOS<br/>                                               
+> --<br/>                                                               
+> This is just a test message , ITS ALL GOOD! , please just ignore it.
 
 ## Location Messages
 
