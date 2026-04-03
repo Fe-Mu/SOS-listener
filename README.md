@@ -1,7 +1,7 @@
 
 # SOS-listener <img align="right" src="res/logo.png" height="150" width="150" alt="SOS Listener Logo"/>
 
-A simple, easy-to-use, tool/App that offers the potential for SOS request in emergency situations.
+A simple, easy-to-use, privacy-respecting tool/App that offers the potential for SOS request in emergency situations.
 
 ## Disclaimer
 
@@ -15,7 +15,7 @@ A simple, easy-to-use, tool/App that offers the potential for SOS request in eme
 SOS-listener is a multiplatform capable tool writen in Python/Kivy language and developed by L.F.G. Muñoz ("the Author") that offers the potential for SOS request in emergency situations.
 
 This App is not targeted at children, but it was designed on purpose with simplicity in mind so that it could easily be used by anyone during an emergency situation. 
-This App has been given features that the Author consider essential, without overloading it with features that could end up overwhelming the user (e.g. children) in difficult scenarios. 
+This App has features that the Author consider essential, without overloading it with features that could end up overwhelming the user (e.g. children) in difficult scenarios. 
 Quick access to essential features and a clean interface were prioritized instead of many features and complicated menus.
 
 This App does not aim to be the most feature rich of its kind (since that would defeat the purpose of its simplicity). 
